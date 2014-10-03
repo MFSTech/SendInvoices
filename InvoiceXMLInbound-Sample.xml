@@ -100,7 +100,7 @@
 						<TotalWeightActual>100</TotalWeightActual>
 						<TotalWeightDim>24</TotalWeightDim>
 						<TotalWeightChargeable>100</TotalWeightChargeable>
-						<TotalCharges>10.05</TotalCharges>
+						<TotalCharges>50</TotalCharges>
 					</ShipmentSummary>
 				</Manifest>
 			</ManifestList>
